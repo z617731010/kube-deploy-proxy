@@ -21,7 +21,7 @@ requests==2.25.1
 rsa==4.7.2 ; python_version >= '3.6'
 six==1.16.0
 typing-extensions==3.10.0.0 ; python_version < '3.8'
-urllib3==1.26.5
+urllib3==2.6.0
 websocket-client==1.0.1
 werkzeug==2.0.1
 zipp==3.4.1
